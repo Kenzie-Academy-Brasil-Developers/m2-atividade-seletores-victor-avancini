@@ -9,8 +9,8 @@ console.log(ingredientsList)
   2. Selecione o elemento <h1> e o atribua a uma constante.
    Mostre somente o elemento selecionado no console.
 */
-const titulo = document.querySelector("h1");
-console.log(titulo)
+const title1 = document.querySelector("h1");
+console.log(title1)
 
 /*
   3. Selecione o elemento com classe "recipe" e o atribua a uma constante.
